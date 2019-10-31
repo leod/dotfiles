@@ -5,6 +5,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set shiftround
+set smartindent
 
 set t_Co=256
 set background=dark
